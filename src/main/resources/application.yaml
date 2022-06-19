@@ -1,0 +1,4 @@
+folder:
+  path:
+    root: 'C:/filemerge/root'
+    save: 'C:/filemerge/result'
